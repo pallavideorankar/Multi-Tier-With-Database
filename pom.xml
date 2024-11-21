@@ -119,12 +119,7 @@
 	     <url>http://65.0.96.198:8081/repository/maven-snapshots/</url>	
 	</snapshotRepository>
 			
-  <releases>
-    <enabled>true</enabled>
-  </releases>
-  <snapshots>
-    <enabled>true</enabled>
-  </snapshots>
+  
 
     </distributionManagement>
 
